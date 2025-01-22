@@ -3,6 +3,11 @@
 ## Overview
 FractalForge is an advanced, interactive fractal visualization application that allows users to explore Mandelbrot and Julia sets with real-time rendering and multiple features.
 
+## Screenshots
+![Fractal Exploration 1](screenshots/1.jpg)
+![Fractal Exploration 2](screenshots/2.jpg)
+![Fractal Exploration 3](screenshots/3.jpg)
+
 ## Features
 - Interactive Fractal Exploration
 - Mandelbrot and Julia Set Rendering
@@ -56,8 +61,3 @@ MIT License
 - Saqlain Abbas
 - GitHub: [@Razee4315](https://github.com/Razee4315)
 - Contact: saqlainrazee@gmail.com
-
-## Screenshots
-![Fractal Exploration 1](screenshots/1.png)
-![Fractal Exploration 2](screenshots/2.png)
-![Fractal Exploration 3](screenshots/3.png)
